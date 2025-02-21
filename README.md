@@ -20,4 +20,5 @@ At Arizona State University’s Learning Engineering Institute, I spearheaded in
 
 I'm passionate about transforming data into actionable insights that drive educational success. Let's connect and explore how data can empower learning experiences! 🌟
 
+View a detailed report on analysis and visualization - 
 https://github.com/cherrybalapurkar/DataAnalytics/blob/main/Final%20Report.pdf
