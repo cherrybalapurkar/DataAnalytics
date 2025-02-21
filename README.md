@@ -1,4 +1,4 @@
-### **Data Analyst**  
+### **Data Engineer**  
 *Learning Engineering Institute at Arizona State University (July 2024 – Present)*
 
 ---
