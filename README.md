@@ -5,6 +5,8 @@
 
 At Arizona State University’s Learning Engineering Institute, I spearheaded innovative data analytics initiatives for the **Writing Assessment Tool (WAT)**, a program dedicated to refining student evaluation processes and enhancing instructional support. My primary focus was on optimizing data integrity and generating actionable insights to empower educators, culminating in a **15% improvement in student assessment accuracy**.
 
+I have also contributed to the Business And Data Analytics intitiatives for **iSTART(The interactive Strategy Training for Active Reading and Thinking)** a program dedicated to refining middle school English language learing inititives, process and enhancing instructional support. My primary focus was Generating Insights on the Learning tool which included learning strategies, lessons and scores with interactive mini games with planet based User Experience, where the eductor has a full control on the learning methodolgies and scoring, my work resulted in finding 10+ insights that are essential to the betterment of the complete application.
+
 ---
 
 #### **Key Contributions:**
