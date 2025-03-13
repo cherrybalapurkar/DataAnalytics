@@ -24,6 +24,6 @@ I'm passionate about transforming data into actionable insights that drive educa
 
 View a detailed report on analysis and visualization - 
 
-WAT - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/Final%20Report.pdf
+WAT - [https://github.com/cherrybalapurkar/DataAnalytics/blob/main/Final%20Report.pdf](https://github.com/cherrybalapurkar/DataAnalytics/blob/main/WAT/Final%20Report.pdf)
 
 iSTART - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/iSTART/Data%20Exploration%20and%20Analysis%20report.pdf
