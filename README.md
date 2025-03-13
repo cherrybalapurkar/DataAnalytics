@@ -23,6 +23,6 @@ I have also contributed to the Business And Data Analytics intitiatives for **iS
 I'm passionate about transforming data into actionable insights that drive educational success. Let's connect and explore how data can empower learning experiences! 🌟
 
 View a detailed report on analysis and visualization - 
-/nWAT - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/Final%20Report.pdf
 
-/niSTART - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/iSTART/Data%20Exploration%20and%20Analysis%20report.pdf
+WAT - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/Final%20Report.pdf
+iSTART - https://github.com/cherrybalapurkar/DataAnalytics/blob/main/iSTART/Data%20Exploration%20and%20Analysis%20report.pdf
